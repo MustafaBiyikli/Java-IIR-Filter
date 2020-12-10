@@ -1,3 +1,16 @@
+/*
+ * File: IIR2Filter.java
+ * Project: Java-IIR-Filter
+ * File Created: Monday, 16 November 2020 @ 2:24:34 pm
+ * Author: Mustafa Biyikli (biyiklimustafa96@gmail.com)
+ * -----
+ * Last Modified: Thursday, 10 December 2020 @ 11:49:26 am
+ * Modified By: Mustafa Biyikli (biyiklimustafa96@gmail.com>)
+ * -----
+ * License MIT License (http://www.opensource.org/licenses/mit-license.php)
+ * Copyright (c) 2020 Mustafa Biyikli
+ */
+
 import java.util.List;
 
 public class IIR2Filter {

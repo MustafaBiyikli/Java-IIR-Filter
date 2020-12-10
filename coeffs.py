@@ -1,3 +1,16 @@
+'''
+File: coeffs.py
+Project: Java-IIR-Filter
+File Created: Monday, 16 November 2020 @ 1:51:50 pm
+Author: Mustafa Biyikli (biyiklimustafa96@gmail.com)
+-----
+Last Modified: Thursday, 10 December 2020 @ 11:48:30 am
+Modified By: Mustafa Biyikli (biyiklimustafa96@gmail.com>)
+-----
+License MIT License (http://www.opensource.org/licenses/mit-license.php)
+Copyright (c) 2020 Mustafa Biyikli
+'''
+
 """
 Author: Mustafa Biyikli
 Outputs the SOS coefficients required by the Java IIR Filter class
